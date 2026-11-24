@@ -1,32 +1,47 @@
 # Nagendra Global Innovations (NGI)
 
-> Nagendra Global Innovations (NGI) is an Indian technology company that builds software, AI-powered tools and future-ready solutions. It is based in Andhra Pradesh, India, and was founded and is led by Mudunuru Avinash Varma, Founder and CEO. Tagline: Innovating Today. Transforming Tomorrow.
+> Nagendra Global Innovations (NGI) is an independent Indian technology company based in Vizianagaram, Andhra Pradesh, founded and led by Mudunuru Avinash Varma (Founder and CEO). NGI builds practical software, AI-powered workflow tools and connected digital platforms, including FaculZo.
 
-## Founder and CEO
-- Mudunuru Avinash Varma (also written Avinash Varma Mudunuru, Avinash Mudunuru, Avinash Varma) is the Founder and CEO of Nagendra Global Innovations.
-- Profile: https://nagendraglobalinnovations.in/mudunuru-avinash-varma.html
-- Personal website: https://avinashmudunuru.in/
-- LinkedIn: https://www.linkedin.com/in/mudunuru-avinash-varma-810555436
-- GitHub: https://github.com/AvinashMudunuru
-- Born: 22 November
-- Quote: "We don't build technology to predict the future; we build it to make the old way of working obsolete."
-- Education: B.Tech, Computer Science and Information Technology, Lendi Institute of Engineering and Technology
+## Official web properties
+- Company website: https://nagendraglobalinnovations.in/
+- Founder profile (company site): https://nagendraglobalinnovations.in/mudunuru-avinash-varma.html
+- Founder personal website: https://avinashmudunuru.in/
+- Product, FaculZo: https://faculzo.nagendraglobalinnovations.in/
+- Contact: ceo@nagendraglobalinnovations.in
 
-- Education history: Sri Gowri Vidyanikethan (school, classes 6 to 10); Sri Vivekananda Junior College (Intermediate, MPC); Lendi Institute of Engineering and Technology (B.Tech CSIT, current)
-- Interests: AI tools, creative interfaces, programming, building useful digital projects
+## Registration
+- Registered on Startup India BHASKAR (ID: IN-1126-9577DW)
+- BHASKAR public profile: https://www.startupindia.gov.in/bhaskar/profile?bhaskarid=IN-1126-9577DW
 
-- Registration: Registered on Startup India BHASKAR (ID: IN-1126-9577DW)
+## Product: FaculZo
+- Three connected campus apps (Student, Staff, Security): attendance, notes, leave requests, gate passes and notices.
 
-## Products
-- FaculZo: three connected campus apps (Student, Staff, Security) for notes, leave requests, attendance, gate passes and alerts. https://faculzo.nagendraglobalinnovations.in/
-- NGI Vision Connect Pro: coming soon.
-
-## Company
-- Website: https://nagendraglobalinnovations.in/
+## Profiles
+- GitHub organization: https://github.com/Nagendra-Global-Innovations
 - Instagram: https://www.instagram.com/nagendraglobalinnovations.in
 - Threads: https://www.threads.com/@nagendraglobalinnovations.in
-- Contact: contact@nagendraglobalinnovations.in (general), support@nagendraglobalinnovations.in (support), ceo@nagendraglobalinnovations.in, founder@nagendraglobalinnovations.in
+- Founder LinkedIn: https://www.linkedin.com/in/mudunuru-avinash-varma-810555436
+- Founder GitHub: https://github.com/AvinashMudunuru
 
-## Policies
-- Privacy: https://nagendraglobalinnovations.in/privacy.html
-- Terms: https://nagendraglobalinnovations.in/terms.html
+## Founder
+- Mudunuru Avinash Varma (also Avinash Varma Mudunuru, Avinash Mudunuru), Founder and CEO of Nagendra Global Innovations.
+
+## Registrations and recognitions
+- Registered on Startup India BHASKAR (ID: IN-1126-9577DW): https://www.startupindia.gov.in/bhaskar/profile?bhaskarid=IN-1126-9577DW
+- Registered with I-STEM (Office of the Principal Scientific Adviser, Government of India)
+- GitHub organization with verified domain: https://github.com/Nagendra-Global-Innovations
+
+## Company profiles
+- LinkedIn: https://www.linkedin.com/company/nagendra-global-innovations
+- Crunchbase: https://www.crunchbase.com/organization/nagendra-global-innovations
+- F6S: https://www.f6s.com/nagendra-global-innovations
+- Instagram: https://www.instagram.com/nagendraglobalinnovations.in
+- Threads: https://www.threads.com/@nagendraglobalinnovations.in
+
+## Founder profiles (Mudunuru Avinash Varma)
+- Website: https://avinashmudunuru.in/
+- LinkedIn: https://www.linkedin.com/in/mudunuru-avinash-varma-810555436
+- GitHub: https://github.com/AvinashMudunuru
+- Product Hunt: https://www.producthunt.com/@avinashmudunuru
+- Peerlist: https://peerlist.io/avinashmudunuru
+- Instagram: https://www.instagram.com/avinash_mudunuru
