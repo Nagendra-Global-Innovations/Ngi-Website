@@ -21,6 +21,9 @@ window.SITE = {
   /* Family line for the founder page. Leave empty "" to hide it. Only add what you and your family are happy to be public. */
   family: "",
 
+  /* Startup India BHASKAR registration. Paste your BHASKAR Public Profile URL between the quotes after url: (leave "" until you have it) */
+  bhaskar: { id: "IN-1126-9577DW", url: "https://www.startupindia.gov.in/bhaskar/profile?bhaskarid=IN-1126-9577DW" },
+
   /* Social media: url = the page link, handle = the text people see */
   social: {
     instagram: { url: "https://www.instagram.com/nagendraglobalinnovations.in", handle: "@nagendraglobalinnovations.in" },

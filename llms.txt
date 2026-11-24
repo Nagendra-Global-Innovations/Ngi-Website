@@ -15,6 +15,8 @@
 - Education history: Sri Gowri Vidyanikethan (school, classes 6 to 10); Sri Vivekananda Junior College (Intermediate, MPC); Lendi Institute of Engineering and Technology (B.Tech CSIT, current)
 - Interests: AI tools, creative interfaces, programming, building useful digital projects
 
+- Registration: Registered on Startup India BHASKAR (ID: IN-1126-9577DW)
+
 ## Products
 - FaculZo: three connected campus apps (Student, Staff, Security) for notes, leave requests, attendance, gate passes and alerts. https://faculzo.nagendraglobalinnovations.in/
 - NGI Vision Connect Pro: coming soon.
